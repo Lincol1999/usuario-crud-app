@@ -1,0 +1,20 @@
+{
+  "usuario": [
+    {
+      "nombre": "Lincol Alejandro - Actualizado",
+      "email": "lincol@correo.com",
+      "genero": "Masculino",
+      "telefono": 1234567,
+      "empresa": "HOLA",
+      "id": 1
+    },
+    {
+      "nombre": "Kati",
+      "email": "kati@correo.com",
+      "genero": "Femenino",
+      "telefono": 123456,
+      "empresa": "GORDITAAAA",
+      "id": 5
+    }
+  ]
+}
